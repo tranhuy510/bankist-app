@@ -28,3 +28,9 @@ $ live-server
 2. Transfer money
 3. Request loan
 4. Delete account
+
+### Link demo
+
+[Bankist](https://tranhuy510.github.io/bankist-app/)
+
+Thanks for watching!
